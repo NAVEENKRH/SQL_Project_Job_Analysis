@@ -1,13 +1,9 @@
 /* find the top 10 heigest paying remote(anywhere) jobs*/
 
 select 
-    job_id,
-    job_title_short,
-    job_location,
-    job_schedule_type,
-    salary_year_avg,
-    job_posted_date :: date,
-    name as company_name
+    name as company_name, 
+    salary_year_avg, 
+    job_posted_date :: date
 from
      job_postings_fact
 LEFT JOIN company_dim ON                  --just included job titles for reference
