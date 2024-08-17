@@ -1,4 +1,4 @@
-/* find the top 10 heigest paying remote(anywhere) jobs*/
+/* find the top 10 heigest paying remote(anywhere) jobs  */
 
 select 
     name as company_name, 
