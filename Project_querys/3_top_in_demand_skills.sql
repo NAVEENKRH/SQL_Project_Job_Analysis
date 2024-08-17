@@ -1,5 +1,4 @@
-/* Top in demand skills for data analyst*/
-
+/* Top in demand skills for data analyst */
 
 select 
     skills,

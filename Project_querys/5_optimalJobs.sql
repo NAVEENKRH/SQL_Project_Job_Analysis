@@ -1,6 +1,8 @@
 /* Optimal jobs are those that have hiegst salary and 
 high demnd */
 
+
+
 select 
     skills_dim.skills,
     Round(AVG(salary_year_avg),0) AVG_salary,
