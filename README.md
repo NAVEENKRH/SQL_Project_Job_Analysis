@@ -1,4 +1,4 @@
-[image alt](https://github.com/NAVEENKRH/SQL_Project_Job_Analysis/blob/35d5e6a51f44eab019ef66a6f459bbc2ada223f8/THUMBNAIL.png)
+![image alt](https://github.com/NAVEENKRH/SQL_Project_Job_Analysis/blob/35d5e6a51f44eab019ef66a6f459bbc2ada223f8/THUMBNAIL.png)
 # Introduction
 📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
 
